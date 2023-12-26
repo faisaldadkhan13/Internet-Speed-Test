@@ -1,3 +1,3 @@
 # Internet-Speed-Test
-A web app to test your internet speed.
-This tool is under development.
+<p>A web app to test your internet speed.</p>
+<p>This tool is under development.</p>
