@@ -1,5 +1,5 @@
 # Internet-Speed-Test
-<div>
+<div align="center">
 <p>A web app to test your internet speed.</p>
 </div>
 <div>
