@@ -23,3 +23,8 @@ button {
     margin-top: 20px;
     font-weight: bold;
 }
+
+.note-para {
+    font-size: 10px;
+    font-weight: bold;
+}
